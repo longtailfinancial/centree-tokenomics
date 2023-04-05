@@ -13,6 +13,8 @@ hvplot = "^0.8.2"
 param = "^1.12.3"
 panel = "^0.14.3"
 ltfte = "^0.0.2"
+jupyterlab = "3.6.0"
+millify = "^0.1.1"
 
 
 [build-system]
